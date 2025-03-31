@@ -13,12 +13,13 @@
 ; ---------------------------- Hotkey Numpad 0 - 9, +, -, *, /, . ----------------------------
 *Numpad0::
 {
-	; INSERT STRAT HERE FROM LIST BELOW
+	StratReinforce()
 	return
 }
 
 *Numpad1::
 {
+	; Insert stratagems from list below for the rest of the numpad! An example is located on line 16 above.
 	return
 }
 
