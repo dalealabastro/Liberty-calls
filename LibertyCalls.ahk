@@ -97,7 +97,7 @@ StratReinforce()
 
 StratSosBeacon() 
 {
-    RunKeys(["W", "S", "D", "A"])
+    RunKeys(["W", "S", "D", "W"])
 }
 
 StratResupply() 
